@@ -47,3 +47,5 @@ The computed variables are stored in an Excel file named output Data Structure.x
 - Run the script to perform data extraction, sentiment analysis, and readability calculations.
 - Find the results in the output Data Structure.xlsx file and the updated output file.
 
+Still need help! 
+Email me: `vt57299@gmail.com`
